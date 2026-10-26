@@ -147,3 +147,10 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# StreamPilot AI additions
+!.env.example
+next-env.d.ts
+test-results
+playwright-report
+tsconfig.tsbuildinfo
